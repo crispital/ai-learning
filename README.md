@@ -1,2 +1,2 @@
 # ai-learning
-my
+To log my daily AI learning
