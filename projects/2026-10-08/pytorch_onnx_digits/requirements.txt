@@ -1,0 +1,7 @@
+# CPU baseline. For your NVIDIA PC, keep your existing CUDA PyTorch and
+# onnxruntime-gpu environment; do NOT install both ORT variants together.
+torch==2.11.0
+onnx==1.23.2
+onnxscript==0.7.2
+onnxruntime==1.26.0
+numpy>=1.26
